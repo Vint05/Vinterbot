@@ -6,12 +6,10 @@
 
 <p align="center">
   Teach a route once, let it run: fishing, shops, boat trips — for <b>Longvinter</b>, on Windows.<br>
-  <a href="../../releases/latest"><b>Download the latest release</b></a> ·
+  <a href="../../releases/latest"><b>Download</b></a> ·
   <a href="https://discord.gg/Gxe3cxADV">Discord</a> ·
   <a href="README.ko.md">한국어</a>
 </p>
-
-This repository holds the releases only (one file: `autofish-<version>.exe`).
 
 ![A route running: the overlay draws the taught path and its spots over the game, here at the decomposer](docs/demo-decompose.jpg)
 
@@ -21,25 +19,20 @@ This repository holds the releases only (one file: `autofish-<version>.exe`).
 
 ## What it does
 
-You walk a route once in the game and add actions where they happen (fish here, sell there, take the boat...).
-vinterbot then walks the same route by itself, round after round, and does those actions on the way. It reads only
-the screen (no game files are changed) and plays with the keyboard and mouse.
+Automate everything you want in LongVinter (fish here, sell there, take the boat...).
+vinterbot then walks the same route by itself, round after round, and does those actions on the way.
 
 - **Teach & repeat** — any route, on any part of the map; loops (back to the start) repeat as many rounds as you like.
 - **Actions** — fish, sell fish, sell everything at J's store, buy, boat trips, decompose, discard, enter / exit a
   building, store in / fetch from a storage box, cook.
-- **Gets itself out of trouble** — finds where it is from what it sees, walks around players in the way, never steps
-  into the (deadly) sea, and if the game crashes or drops the server it starts it again, rejoins and carries on.
 - **Telegram remote** — status, screenshots, start / stop / pause from your phone; a message when it gets stuck.
-- **Updates itself** at launch when a new release is out.
-- English or Korean, following Windows' display language.
 
 ## Requirements
 
 - Windows 10 or 11 (64-bit) and Longvinter (Steam).
 - The game at a **16:9** size, 1280x720 or larger (fullscreen, borderless or windowed).
-- **Keep the monitor on** while it runs (dimmed is fine). A monitor switched off makes Windows drop to 1024x768.
-- An input driver that installs on the first launch (below): one restart.
+- Keep Graphic Quality <Water>: `Low`
+- **Keep the monitor on** while it runs (dimmed is fine)
 
 ## Install
 
