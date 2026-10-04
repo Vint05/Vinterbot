@@ -36,7 +36,7 @@ vinterbot then walks the same route by itself, round after round, and does those
 
 ## Install
 
-1. Download `autofish-<version>.exe` from [Releases](../../releases/latest) (or with `/download` on our Discord).
+1. Download `autofish-<version>.exe` from [Releases](../../releases/latest) (or from #download on our [Discord](https://discord.gg/Gxe3cxADV): enter the code in #verify first).
 2. Put it in a **folder of its own**, e.g. `C:\vinterbot\`. Your routes are saved next to it, in `routes\`.
 3. Run it. Windows may say *"Windows protected your PC"* (the exe isn't code-signed): **More info → Run anyway**.
 4. **First launch only:** it installs its input driver — Windows asks for administrator rights — and then asks you

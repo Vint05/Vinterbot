@@ -43,7 +43,7 @@
 
 ## 설치
 
-1. [Releases](../../releases/latest)에서 `autofish-<버전>.exe` 를 받으세요 (또는 Discord 에서 `/download`).
+1. [Releases](../../releases/latest)에서 `autofish-<버전>.exe` 를 받으세요 (또는 [Discord](https://discord.gg/Gxe3cxADV) 의 #download: 먼저 #verify 에서 코드를 입력하세요).
 2. **전용 폴더**에 두세요. 예: `C:\vinterbot\`. 루트는 그 옆 `routes\` 폴더에 저장됩니다.
 3. 실행하세요. Windows 가 *"Windows의 PC 보호"* 를 띄우면 (코드 서명이 없어서): **추가 정보 → 실행**.
 4. **첫 실행 때만:** 입력 드라이버를 설치합니다 — Windows 가 관리자 권한을 묻고 — 그 뒤 **Windows 를 다시
